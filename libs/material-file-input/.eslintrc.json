@@ -1,0 +1,27 @@
+{
+    "extends": "../../.eslintrc.json",
+    "env": {
+        "rules": {
+            "@typescript-eslint/tslint/config": [
+                "error",
+                {
+                    "rules": {
+                        "component-selector": [
+                            true,
+                            "element",
+                            "ngx",
+                            "kebab-case"
+                        ],
+                        "directive-class-suffix": true,
+                        "directive-selector": [
+                            true,
+                            "attribute",
+                            "ngx",
+                            "camelCase"
+                        ]
+                    }
+                }
+            ]
+        }
+    }
+}
