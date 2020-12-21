@@ -4,6 +4,9 @@
 [![Coverage Status](https://coveralls.io/repos/github/merlosy/ngx-material-file-input/badge.svg)](https://coveralls.io/github/merlosy/ngx-material-file-input)
 [![Known Vulnerabilities](https://snyk.io/test/github/merlosy/ngx-material-file-input/badge.svg)](https://snyk.io/test/github/merlosy/ngx-material-file-input)
 
+# This is a fork
+This is a fork of the [library](https://github.com/merlosy/ngx-material-file-input) to add Angular 10 support
+
 # material-file-input
 
 This project provides :

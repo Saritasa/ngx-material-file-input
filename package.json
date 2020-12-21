@@ -1,10 +1,10 @@
 {
   "name": "material-file-input",
-  "version": "2.1.1",
+  "version": "2.1.2",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/merlosy/ngx-material-file-input"
+    "url": "https://github.com/Saritasa/ngx-material-file-input"
   },
   "scripts": {
     "ng": "nx",
